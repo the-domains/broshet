@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T23:00:22.121Z'
-dateModified: '2016-03-02T23:00:05.280Z'
+datePublished: '2016-03-02T23:04:51.103Z'
+dateModified: '2016-03-02T23:04:50.782Z'
 title: Магазин коллег и друзей
 author: []
+sourcePath: _posts/2016-03-02-magazin-kolleg-i-druzej.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-magazin-kolleg-i-druzej.md
-published: true
 url: magazin-kolleg-i-druzej/index.html
 _type: Article
 
