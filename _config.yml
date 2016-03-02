@@ -1,0 +1,28 @@
+name: broshet
+favicon: null
+layout_spectrum: 0.02389849186874926
+typography_spectrum: 0.8028180964756757
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7660147515125573
+  lightness: 0.4600584239233285
+  saturation: 0.7527381903491914
+  rhythmicContrast: 0.787747937720269
+purpose: []
